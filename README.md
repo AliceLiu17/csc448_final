@@ -38,6 +38,18 @@
 
 ----
 
+#### Voila Implementation:
+
+**SPAM:** 
+1. click here to get your reward
+2. CliCK Here: VerIFy
+
+**NOT SPAM:**
+1. Hi bestie, how are you
+2. Going to costco
+
+----
+
 #### Setup:
 1. Download and install [Anaconda](https://www.anaconda.com/download)
 2. Launch a jupyter notebook
@@ -58,11 +70,6 @@
 2. You need these extensions to install so make a new cell above the first cell and run these commands: `!pip install ipywidgets==8.0.4`, `jupyter nbextension enable --py widgetsnbextension` and `!pip install voila`
 3. Note after installing you must reopen jupyter notebook and there will be a Voila button under help
 4. If there are any questions, please follow this [article](https://towardsdatascience.com/4-python-packages-to-create-interactive-dashboards-d50861d1117e) specifically the first two packages
-
-----
-
-#### Prototype:
-
 
 ----
 
