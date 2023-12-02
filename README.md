@@ -1,5 +1,5 @@
 ### Team Ditto: Alice Liu, Emily Kim, Lily Liang
-
+![](https://github.com/AliceLiu17/csc448_final/blob/main/Team%20DITTO_Presentation.pdf)
 ----
 
 #### Libraries used
