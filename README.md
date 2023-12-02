@@ -39,7 +39,7 @@
 ----
 
 #### Voila Implementation:
-[Watch Screen Recording](https://github.com/AliceLiu17/csc448_final/raw/main/voila_recording.mov)
+![]([https://github.com/AliceLiu17/csc448_final/blob/main/readme_pic.jpg](https://github.com/AliceLiu17/csc448_final/blob/main/voila_recording.gif))
 
 **SPAM:** 
 1. click here to get your reward
