@@ -39,7 +39,8 @@
 ----
 
 #### Voila Implementation:
-![]([https://github.com/AliceLiu17/csc448_final/blob/main/readme_pic.jpg](https://github.com/AliceLiu17/csc448_final/blob/main/voila_recording.gif))
+
+<img src='https://github.com/AliceLiu17/csc448_final/blob/main/voila_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **SPAM:** 
 1. click here to get your reward
