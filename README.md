@@ -1,10 +1,18 @@
-# csc448_final
-
 ### Team Ditto: Alice Liu, Emily Kim, Lily Liang
 
 ----
 
-#### <INSERT_TITLE>:
+#### Libraries used
+- Pandas
+- NumPy
+- Matplotlib
+- NLTK
+- Stopwords
+- TfidfVectorizer
+- Scikit-learn 
+- Seaborn 
+- ipywidgets
+- Voilà Jupyter server extension
 
 ----
 
