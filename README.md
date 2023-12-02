@@ -27,6 +27,7 @@
 **Everyone = each person in the team tries it on their own file and we come together through zoom to discuss, combine, and make decisions**
 
 **Everyone contributed and helped in each of the task**
+
 ----
 
 #### <INSERT_TITLE>:
