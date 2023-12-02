@@ -39,6 +39,7 @@
 ----
 
 #### Voila Implementation:
+[![](https://github.com/AliceLiu17/csc448_final/blob/main/voila_recording.mov)
 
 **SPAM:** 
 1. click here to get your reward
