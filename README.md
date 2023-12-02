@@ -39,6 +39,8 @@
 ----
 
 #### Voila Implementation:
+[Watch Screen Recording](https://github.com/AliceLiu17/csc448_final/raw/main/voila_recording.mov)
+
 <video width="320" height="240" controls>
     <source src="https://github.com/AliceLiu17/csc448_final/raw/main/voila_recording.mov" type="video/mp4">
     Your browser does not support the video tag.
