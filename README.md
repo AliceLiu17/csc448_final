@@ -16,6 +16,16 @@
 
 ----
 
+#### Models Used
+- Naive Bayes (multinomial naive bayes)
+- SVM
+- Logistic regression
+- Random Forest
+- Gradient Boosting Models
+- Decision Tree
+
+----
+
 #### Tasks
 
 | Task    | Assigned |
