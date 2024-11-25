@@ -33,8 +33,8 @@
 | Create Github Repository  | Everyone  |
 | Brainstorm Project    | Everyone  |
 | Finding Dataset    | Everyone  |
-| Combine data and removing duplication    | Everyone  |
-| EDA    | Everyone  |
+| Combine data and removing duplication    | Alice  |
+| EDA    | Alice  |
 | Data Preprocessing    | Everyone  |
 | Modeling: Gradient Boosting, random forest    | Alice  |
 | Modeling: SVM, logisitc regression    | Emily  |
